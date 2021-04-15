@@ -20,7 +20,7 @@ I also aim to share here some other projects that are linked to signal processin
 For example, I developped a little tool to estimate if I sing in tune.
 
 More interesting, I tried to estimate if the ability to stay in tune is impacted by the input frequency and its distance from the western muscial scale.
-To put it in other words, is a A (440 Hz) easier to reproduce than, for example, a slightly incorrect A at 440 Hz + <img src="https://render.githubusercontent.com/render/math?math=\varepsilon"> ?
+To put it in other words, is a A (440 Hz) easier to reproduce than, for example, a slightly shifted A at 440 Hz + <img src="https://render.githubusercontent.com/render/math?math=\varepsilon"> ?
 
 There are a lot more questions that can be asked around this singing thematic. Is our ability to sing in tune influenced by the time window ?
 If it's relatively easy to hold a note that we listen at the same time, it eventually becomes harder and harder to hold the very same frequency once the input is no more listened.
