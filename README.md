@@ -30,9 +30,7 @@ If it's relatively easy to hold a note that we listen at the same time, it event
 
 Usually, each project comes with a README.md which describe how to install and run it.
 
-Moreover, for each project there will be a full article on my blog that describe the main results and points of interest.
-
-Currently the blog is still in construction and the adress will be provided here as soon as I finish it.
+Moreover, for each project there will be a full article on [my blog](blog.les-vigneron.fr) that describe the main results and points of interest.
 
 <!---
 DonutMan06/DonutMan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
