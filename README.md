@@ -1,8 +1,10 @@
 
 ## Welcome on my GitHub !
 
-I'm a research engineer in a geomagnetism group and I like to create some code from time to time as a hobby.
-Even if I code for a long time now, I'm quite new here since I didn't share my work (which is not really big stuff but just some little investigations on questions that puzzled me)
+I'm a research engineer at CNRS, France and I like to create some code from time to time as a hobby.
+This is not really big stuff software but just some little investigations on questions that puzzled me.
+
+Precise control versioning is consequently not very usefull since I just code for a day or two then forget about it. I don't think I will be very active on this platform thus. But here am I anyway.
 
 
 ## What will you find here ?
@@ -20,17 +22,19 @@ I also aim to share here some other projects that are linked to signal processin
 For example, I developped a little tool to estimate if I sing in tune.
 
 More interesting, I tried to estimate if the ability to stay in tune is impacted by the input frequency and its distance from the western muscial scale.
-To put it in other words, is a A (440 Hz) easier to reproduce than, for example, a slightly shifted A at 440 Hz + <img src="https://render.githubusercontent.com/render/math?math=\varepsilon"> ?
+To put it in other words, is a A (440 Hz) easier to reproduce than, for example, a slightly shifted A at 440 Hz + $\varepsilon$ ?
 
 There are a lot more questions that can be asked around this singing thematic. Is our ability to sing in tune influenced by the time window ?
 If it's relatively easy to hold a note that we listen at the same time, it eventually becomes harder and harder to hold the very same frequency once the input is no more listened.
 
+Most, if not all, of the work presented here are under [GNU GPL v3 license](https://www.gnu.org/licenses/gpl-3.0.html).
+
 
 ## How to run the different projects ?
 
-Usually, each project comes with a README.md which describe how to install and run it.
+Usually, each project comes with a README which describe how to install and run it.
 
-Moreover, for each project there will be a full article on [my blog](http://blog.les-vigneron.fr) that describe the main results and points of interest.
+Moreover, for each project there should be a full article on [my blog](http://donutblog.fr) that describes the main results and points of interest.
 
 <!---
 DonutMan06/DonutMan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
