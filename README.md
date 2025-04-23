@@ -1,7 +1,7 @@
 
 ## Welcome on my GitHub !
 
-I'm a research engineer at CNRS, France and I like to create some code from time to time as a hobby.
+I'm a research engineer at CNRS, France, and I like to create some code from time to time as a hobby.
 This is not really big stuff software but just some little investigations on questions that puzzled me.
 
 Precise control versioning is consequently not very usefull since I just code for a day or two then forget about it. I don't think I will be very active on this platform thus. But here am I anyway.
