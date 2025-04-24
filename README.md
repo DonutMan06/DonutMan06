@@ -27,6 +27,8 @@ To put it in other words, is a A (440 Hz) easier to reproduce than, for example,
 There are a lot more questions that can be asked around this singing thematic. Is our ability to sing in tune influenced by the time window ?
 If it's relatively easy to hold a note that we listen at the same time, it eventually becomes harder and harder to hold the very same frequency once the input is no more listened.
 
+Recently I also played with webcam filters using the [OpenCV library](https://opencv.org/) and the [v4l2loopback kernel module](v4l2loopback) that let me use my filtered webcam as a real one in software like VLC or Zoom.
+
 Most, if not all, of the work presented here are under [GNU GPL v3 license](https://www.gnu.org/licenses/gpl-3.0.html).
 
 
